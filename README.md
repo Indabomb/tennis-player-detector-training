@@ -1,2 +1,2 @@
-# tennis-player-detector-training
-This is how i trained a tennis player 
+# Tennis player model detector
+In this git repo I will put how I trained this full model using roboflow and google colab
